@@ -1,0 +1,184 @@
+-- Begin of log for 06-30-18 --
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:110000114359af8) loaded
+User (steam:11000010494667b) saved and unloaded
+User (steam:110000114359af8) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000011b2f8dc4) loaded
+User (steam:110000114359af8) loaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000011b2f8dc4) loaded
+User (steam:110000114359af8) loaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000011b2f8dc4) loaded
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) loaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:110000114359af8) loaded
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) loaded
+User (steam:110000114359af8) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:110000114359af8) loaded
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) loaded
+User (steam:11000011b2f8dc4) loaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000011b2f8dc4) loaded
+User (steam:110000114359af8) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:110000114359af8) loaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000011b2f8dc4) loaded
+User (steam:110000114359af8) loaded
+User (steam:11000011b2f8dc4) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000011b2f8dc4) loaded
+User (steam:110000114359af8) loaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+User (steam:110000114359af8) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000011b2f8dc4) loaded
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) loaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+User (steam:110000114359af8) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000011b2f8dc4) loaded
+User (steam:11000010494667b) saved and unloaded
+User (steam:11000011b2f8dc4) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000011b2f8dc4) loaded
+User (steam:11000010494667b) saved and unloaded
+User (steam:110000114359af8) loaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:110000114359af8) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000010494667b) loaded
+User (steam:11000011b2f8dc4) loaded
+User (steam:110000114359af8) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000011b2f8dc4) loaded
+User (steam:110000114359af8) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:11000010494667b) loaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000011b2f8dc4) loaded
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) loaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000011b2f8dc4) loaded
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000010494667b) saved and unloaded
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000011b2f8dc4) saved and unloaded
+== EssentialMode started, version 5.0.2 ==
+User (steam:11000011b2f8dc4) loaded
+User (steam:11000010494667b) loaded
+User (steam:110000114359af8) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000011b2f8dc4) saved and unloaded
+User (steam:11000010863d205) loaded
+User (steam:11000011b2f8dc4) loaded
+User (steam:110000114359af8) loaded
+User (steam:110000114359af8) saved and unloaded
+User (steam:11000010863d205) saved and unloaded
